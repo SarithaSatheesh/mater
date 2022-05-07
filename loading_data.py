@@ -14,6 +14,7 @@ import time
 import datetime
 import os
 import logging
+import numpy
 
 logging.basicConfig(
         filename='D:/snowflakeinject/temp/ingest.log',
